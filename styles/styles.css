@@ -22,7 +22,7 @@ body {
   min-width: 1280px;
   height: 100%;
   margin: 0;
-  font-family: "PT Sans", sans-serif, Arial;
+  font-family: "PT Sans", sans-serif, "Arial";
   font-size: 18px;
   line-height: 21px;
   background-color: #f2f2f2;
@@ -550,7 +550,7 @@ img {
   min-width: 452px;
   height: 52px;
   padding: 14px 20px;
-  font-family: "PT Sans", sans-serif, Arial;
+  font-family: "PT Sans", sans-serif, "Arial";
   font-weight: 400;
   font-size: 18px;
   line-height: 24px;
@@ -586,7 +586,7 @@ img {
   min-height: 52px;
   padding: 14px;
   overflow: hidden;
-  font-family: "PT Sans", sans-serif, Arial;
+  font-family: "PT Sans", sans-serif, "Arial";
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
@@ -657,12 +657,12 @@ img {
 }
 
 .social-icon {
-  fill: #83B3D3;
+  fill: #83b3d3;
 }
 
 .social-button:hover .social-icon,
 .social-button:focus .social-icon {
-  fill: #68A2CA;
+  fill: #68a2ca;
 }
 
 .social-button:active .social-icon{
@@ -838,7 +838,7 @@ img {
 .departute-text {
   grid-column-start: 2;
   padding-left: 20px;
-  font-family: "PT Sans", sans-serif, Arial;
+  font-family: "PT Sans", sans-serif, "Arial";
   font-size: 16px;
   line-height: 21px;
 }
@@ -872,7 +872,7 @@ img {
   height: 48px;
   margin-bottom: 5px;
   padding: 12px 20px;
-  font-family: "PT Sans", sans-serif, Arial;
+  font-family: "PT Sans", sans-serif, "Arial";
   font-weight: 700;
   font-size: 18px;
   line-height: 24px;
@@ -1060,7 +1060,7 @@ img {
   width: 577px;
   min-height: 60px;
   padding: 10px;
-  font-family: "PT Sans", sans-serif, Arial;
+  font-family: "PT Sans", sans-serif, "Arial";
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
@@ -1074,8 +1074,8 @@ img {
 }
 
 .search-hotels-button:hover,
-.search-hotels-button :focus {
-  background-color: #68A2CA;
+.search-hotels-button:focus {
+  background-color: #68a2ca;
 }
 
 .search-hotels-button:active {
@@ -1089,7 +1089,7 @@ img {
 }
 
 .search-hotels-button:disabled:hover {
-  background-color:#82b3d3;
+  background-color: #83b3d3;
 }
 
 .filters-wrapper {
@@ -1218,7 +1218,7 @@ img {
 
 .hotels-control-input[type="checkbox"]:focus + .control-mark {
   box-sizing: border-box;
-  outline : 3px solid #83B3D3;
+  outline: 3px solid #83B3D3;
 
 }
 
@@ -1229,7 +1229,7 @@ img {
 
 .hotels-control-input[type="radio"]:focus + .control-mark-radio {
   box-sizing: border-box;
-  outline : 3px solid #83B3D3;
+  outline: 3px solid #83B3D3;
 }
 
 .hotels-control-input[type="radio"]:disabled + .control-mark-radio {
@@ -1308,7 +1308,7 @@ img {
   width: 143px;
   height: 48px;
   padding: 12px 40px 12px 20px;
-  font-family: "PT Sans", sans-serif, Arial;
+  font-family: "PT Sans", sans-serif, "Arial";
   font-weight: 700;
   font-size: 18px;
   line-height: 24px;
@@ -1408,7 +1408,7 @@ img {
   width: 191px;
   min-height: 36px;
   padding: 8px;
-  font-family: "PT Sans", sans-serif, Arial;
+  font-family: "PT Sans", sans-serif, "Arial";
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
@@ -1446,7 +1446,7 @@ img {
   padding: 8px;
   border: 0;
   margin-top: 32px;
-  font-family: "PT Sans", sans-serif, Arial;
+  font-family: "PT Sans", sans-serif, "Arial";
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
@@ -1502,7 +1502,7 @@ img {
   height: 49px;
   margin-left: 200px;
   padding: 14px 40px 12px 20px;
-  font-family: "PT Sans", sans-serif, Arial;
+  font-family: "PT Sans", sans-serif, "Arial";
   font-size: 18px;
   line-height: 21px;
   color: #333333;
@@ -1688,7 +1688,7 @@ img {
   align-items: center;
   border: 0;
   border-radius: 4px;
-  font-family: "PT Sans", sans-serif, Arial;
+  font-family: "PT Sans", sans-serif, "Arial";
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
@@ -1814,7 +1814,7 @@ img {
 }
 
 .pagination-next {
-  font-family: "PT Sans", sans-serif, Arial;
+  font-family: "PT Sans", sans-serif, "Arial";
   font-weight: 400;
   font-size: 22px;
   line-height: 40px;
