@@ -1,5 +1,7 @@
 # Личный проект «Седона»
 
+https://vladgod66.github.io/2302887-sedona-36/
+
 * Студент: [Владислав Годунов](https://up.htmlacademy.ru/htmlcss/36/user/2302887).
 * Наставник: `Надежда Палаш`(https://htmlacademy.ru/profile/id1191579).
 
